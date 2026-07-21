@@ -62,13 +62,22 @@ Potential enhancements include:
 
 ## Running the Dashboard
 
-1. Clone this repository.
-2. Install the required dependencies:
-   - pandas
-   - plotly
-   - ipywidgets
-3. Open the notebook in JupyterLab.
-4. Run all cells from top to bottom.
+1. Clone or download this repository.
+2. Install the required dependencies listed in `requirements.txt`.
+3. Download the dataset from Google Drive:
+   https://drive.google.com/file/d/1RJL0peFRkKG3WgYfv0z6fLXzVvog6aBj/view?usp=sharing
+4. Extract the downloaded ZIP file so that a folder named `pitch_data` is located in the same directory as `Interactive_MLB_Pitch_Dashboard.ipynb`.
+5. Open the notebook in JupyterLab or Google Colab.
+6. Run all cells from top to bottom.
+
+5. ## Data
+
+The 2019 MLB Statcast dataset used for this dashboard is hosted separately because it exceeds GitHub's browser upload size limit.
+
+Google Drive:
+https://drive.google.com/file/d/1RJL0peFRkKG3WgYfv0z6fLXzVvog6aBj/view?usp=sharing
+
+The dashboard notebook is available in this repository.
 
 ## Author
 
