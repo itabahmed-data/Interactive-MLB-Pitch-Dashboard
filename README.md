@@ -60,6 +60,16 @@ Potential enhancements include:
 
 ---
 
+## Running the Dashboard
+
+1. Clone this repository.
+2. Install the required dependencies:
+   - pandas
+   - plotly
+   - ipywidgets
+3. Open the notebook in JupyterLab.
+4. Run all cells from top to bottom.
+
 ## Author
 
 Itab Ahmed
